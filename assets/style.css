@@ -71,4 +71,12 @@ body {
   }
 
 
-  
+  .past{
+    background-color: gray;
+  }
+  .present{
+    background-color: red;
+  }
+  .future{
+    background-color: green;
+  }
