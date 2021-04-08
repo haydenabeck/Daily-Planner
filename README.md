@@ -9,7 +9,7 @@
 ## Contributors 
 @haydenabeck
 with assistance from my TA's and my tutor Sammantha
-I also worked alongside 
+I also worked alongside my project 1 groupmates Zachary Taylor and Xavier Martinez for large portions of this assignment in order to get better aquainted before we begin that assignment
 
 ## Description
 
