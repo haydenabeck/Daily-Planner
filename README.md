@@ -1,5 +1,34 @@
 # Daily-Planner
 
+
+# JavaScript: Password Generator
+
+## Live Link
+
+
+## Contributors 
+@haydenabeck
+with assistance from my TA's and my tutor Sammantha
+I also worked alongside 
+
+## Description
+
+## Technology Stack 
+HTML, CSS, Javascript
+
+## Usage
+ 
+
+## Screenshots
+<img src="" alt=""/>
+
+## Contact 
+#### Name (@haydenabeck)
+* Email: [haydenabeck@gmail.com](haydenabeck@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/hayden-beck-17109419a/
+
+
+
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 <!-- Use javascript moment function or jquery ui to display date, time and month -->
