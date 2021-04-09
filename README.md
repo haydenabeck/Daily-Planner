@@ -57,3 +57,16 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
+<!-- data- military time for accessing those points through the moment function  -->
+
+<!-- data- index as a utilit -->
+<!-- 
+localstorage - dayplanner = "["","","",]"                    actual index which is 0, but plus 9 because military time
+
+localstorage - hour-10 = ""
+            hour -11 =""
+            hour-12
+
+localsotrage.setItem(["hour-"+event.target.dataset.hour], thecorrespondingInput)
+
+ -->
